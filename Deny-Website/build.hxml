@@ -1,0 +1,3 @@
+-cp source/client
+-main Main
+--js bin/main.js
