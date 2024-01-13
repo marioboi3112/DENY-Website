@@ -1,0 +1,4 @@
+-lib raylib-haxe
+-cp src
+-cpp bin
+-main Main
